@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/MyFolder/GIT/REST-Assured/JSON Server Local(failed)">
+    <classes>
+      <class name="TestScenario">
+        <methods>
+          <include name="getUrl"/>
+          <include name="initTest"/>
+          <include name="listAllApiResources"/>
+        </methods>
+      </class> <!-- TestScenario -->
+    </classes>
+  </test> <!-- C:/MyFolder/GIT/REST-Assured/JSON Server Local(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
