@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52ac29e2-099e-47bd-913b-288249c79136" name="Changes" comment="JSON Server Test v0.1">
-      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+    <list default="true" id="52ac29e2-099e-47bd-913b-288249c79136" name="Changes" comment="JSON Server Test v0.3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="TestNG.C:/MyFolder/GIT/REST-Assured/JSON Server Local/testng.xml">
@@ -112,7 +111,10 @@
       <workItem from="1643031732705" duration="69000" />
       <workItem from="1643031826580" duration="27000" />
       <workItem from="1643031886525" duration="3768000" />
-      <workItem from="1643100292851" duration="23002000" />
+      <workItem from="1643100292851" duration="23656000" />
+      <workItem from="1643801976331" duration="985000" />
+      <workItem from="1643805561306" duration="1000" />
+      <workItem from="1643977033353" duration="152000" />
     </task>
     <task id="LOCAL-00001" summary="JSON Server Test v0.1">
       <created>1643032582303</created>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643032582303</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JSON Server Test v0.2">
+      <created>1643195464043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643195464043</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="JSON Server Test v0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSON Server Test v0.1" />
+    <MESSAGE value="JSON Server Test v0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSON Server Test v0.2" />
   </component>
 </project>
